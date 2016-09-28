@@ -14,8 +14,8 @@
 ### Nama :
 #### Vejryn Shaviero
 
-#### Kelas :
-##### XI RPL 5
+### Kelas :
+#### XI RPL 5
 
 ### No Urut :
 #### 36
